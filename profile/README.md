@@ -66,4 +66,4 @@ Site Web : https://parkops.maxlware.fr
 ## 🔐 Licence
 Distribué sous licence ISC et MIT. Voir LICENSE pour plus d'informations.
 
-<p align="center"> « Optimiser l'expérience visiteurs, une attraction à la fois » 🚀 </p> ```
+<p align="center"> « Optimiser l'expérience visiteurs, une attraction à la fois » 🚀 </p>
